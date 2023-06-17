@@ -1,2 +1,2 @@
 # SQL-Projects
-Repository of projects made using SQL(SQL Lite/My SQL/PostgreSQL)
+Repository of data anlysis projects made using SQL(SQL Lite/My SQL/PostgreSQL)
