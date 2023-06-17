@@ -35,6 +35,9 @@ This table lists the four regions where sales data was captured: North America, 
 ### Region_Sales
 The Region_Sales table records sales made for games in each region. It is the main table used for sales-related queries. The num_sales column represents the number of game sales in millions for each region.
 
+## TABLE SCHEMA
+![SCHEMA](https://github.com/Legendary-mechanic/SQL-Projects/assets/69748230/a3229aa0-ffa4-4881-850f-a36b0fc4fa4d)
+
 ## Project Highlights
 This project showcases the ability to:
 1. Connect to a PostgreSQL database using the `psycopg2` library.
